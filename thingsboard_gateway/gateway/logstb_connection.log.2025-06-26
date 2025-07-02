@@ -1,0 +1,78 @@
+2025-06-26 10:52:11.337 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 568 - MQTT client was disconnected with reason code None (Description not found.) 
+2025-06-26 10:52:16.876 - |INFO| - [tb_client.py] - tb_client - _on_connect - 313 - MQTT client connected to platform 35.208.180.242: 1883
+2025-06-26 10:52:16.877 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 577 - MQTT client <paho.mqtt.client.Client object at 0x000001C190545060> - Connected!
+2025-06-26 10:52:16.877 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 269 - Subscribed to *|* with id 30 for device *
+2025-06-26 10:52:17.436 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 894 - Service configuration was successfully retrieved and applied.
+2025-06-26 10:52:17.436 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 895 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-06-26 10:52:17.436 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 347 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-06-26 11:01:41.847 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 568 - MQTT client was disconnected with reason code None (Description not found.) 
+2025-06-26 11:01:47.610 - |INFO| - [tb_client.py] - tb_client - _on_connect - 313 - MQTT client connected to platform 35.208.180.242: 1883
+2025-06-26 11:01:47.610 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 577 - MQTT client <paho.mqtt.client.Client object at 0x000001C190545060> - Connected!
+2025-06-26 11:01:47.612 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 269 - Subscribed to *|* with id 31 for device *
+2025-06-26 11:01:48.152 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 894 - Service configuration was successfully retrieved and applied.
+2025-06-26 11:01:48.154 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 895 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-06-26 11:01:48.154 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 347 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-06-26 11:33:01.398 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 568 - MQTT client was disconnected with reason code None (Description not found.) 
+2025-06-26 11:33:06.968 - |INFO| - [tb_client.py] - tb_client - _on_connect - 313 - MQTT client connected to platform 35.208.180.242: 1883
+2025-06-26 11:33:06.968 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 577 - MQTT client <paho.mqtt.client.Client object at 0x000001C190545060> - Connected!
+2025-06-26 11:33:06.969 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 269 - Subscribed to *|* with id 32 for device *
+2025-06-26 11:33:07.478 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 894 - Service configuration was successfully retrieved and applied.
+2025-06-26 11:33:07.479 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 895 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-06-26 11:33:07.479 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 347 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-06-26 11:42:42.347 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 568 - MQTT client was disconnected with reason code None (Description not found.) 
+2025-06-26 11:42:47.934 - |INFO| - [tb_client.py] - tb_client - _on_connect - 313 - MQTT client connected to platform 35.208.180.242: 1883
+2025-06-26 11:42:47.934 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 577 - MQTT client <paho.mqtt.client.Client object at 0x000001C190545060> - Connected!
+2025-06-26 11:42:47.934 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 269 - Subscribed to *|* with id 33 for device *
+2025-06-26 11:42:48.472 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 894 - Service configuration was successfully retrieved and applied.
+2025-06-26 11:42:48.473 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 895 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-06-26 11:42:48.473 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 347 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-06-26 11:44:10.235 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 568 - MQTT client was disconnected with reason code None (Description not found.) 
+2025-06-26 11:44:15.795 - |INFO| - [tb_client.py] - tb_client - _on_connect - 313 - MQTT client connected to platform 35.208.180.242: 1883
+2025-06-26 11:44:15.796 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 577 - MQTT client <paho.mqtt.client.Client object at 0x000001C190545060> - Connected!
+2025-06-26 11:44:15.796 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 269 - Subscribed to *|* with id 34 for device *
+2025-06-26 11:44:16.307 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 894 - Service configuration was successfully retrieved and applied.
+2025-06-26 11:44:16.307 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 895 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-06-26 11:44:16.307 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 347 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-06-26 11:54:16.117 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 568 - MQTT client was disconnected with reason code None (Description not found.) 
+2025-06-26 11:54:21.688 - |INFO| - [tb_client.py] - tb_client - _on_connect - 313 - MQTT client connected to platform 35.208.180.242: 1883
+2025-06-26 11:54:21.688 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 577 - MQTT client <paho.mqtt.client.Client object at 0x000001C190545060> - Connected!
+2025-06-26 11:54:21.689 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 269 - Subscribed to *|* with id 35 for device *
+2025-06-26 11:54:22.229 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 894 - Service configuration was successfully retrieved and applied.
+2025-06-26 11:54:22.229 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 895 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-06-26 11:54:22.230 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 347 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-06-26 12:16:43.727 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 568 - MQTT client was disconnected with reason code None (Description not found.) 
+2025-06-26 12:16:49.247 - |INFO| - [tb_client.py] - tb_client - _on_connect - 313 - MQTT client connected to platform 35.208.180.242: 1883
+2025-06-26 12:16:49.247 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 577 - MQTT client <paho.mqtt.client.Client object at 0x000001C190545060> - Connected!
+2025-06-26 12:16:49.248 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 269 - Subscribed to *|* with id 36 for device *
+2025-06-26 12:16:49.740 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 894 - Service configuration was successfully retrieved and applied.
+2025-06-26 12:16:49.740 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 895 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-06-26 12:16:49.740 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 347 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-06-26 13:16:29.054 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 568 - MQTT client was disconnected with reason code None (Description not found.) 
+2025-06-26 15:02:27.036 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-06-26 15:02:35.175 - |INFO| - [tb_client.py] - tb_client - _on_connect - 313 - MQTT client connected to platform 35.208.180.242: 1883
+2025-06-26 15:02:35.175 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 577 - MQTT client <paho.mqtt.client.Client object at 0x000001C190545060> - Connected!
+2025-06-26 15:02:35.177 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 269 - Subscribed to *|* with id 37 for device *
+2025-06-26 15:02:35.692 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 894 - Service configuration was successfully retrieved and applied.
+2025-06-26 15:02:35.692 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 895 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-06-26 15:02:35.694 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 347 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-06-26 15:18:32.842 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 568 - MQTT client was disconnected with reason code None (Description not found.) 
+2025-06-26 15:18:38.364 - |INFO| - [tb_client.py] - tb_client - _on_connect - 313 - MQTT client connected to platform 35.208.180.242: 1883
+2025-06-26 15:18:38.373 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 577 - MQTT client <paho.mqtt.client.Client object at 0x000001C190545060> - Connected!
+2025-06-26 15:18:38.375 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 269 - Subscribed to *|* with id 38 for device *
+2025-06-26 15:18:38.872 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 894 - Service configuration was successfully retrieved and applied.
+2025-06-26 15:18:38.872 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 895 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-06-26 15:18:38.872 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 347 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-06-26 16:40:04.629 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 568 - MQTT client was disconnected with reason code None (Description not found.) 
+2025-06-26 17:04:35.809 - |INFO| - [tb_client.py] - tb_client - _on_connect - 313 - MQTT client connected to platform 35.208.180.242: 1883
+2025-06-26 17:04:35.810 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 577 - MQTT client <paho.mqtt.client.Client object at 0x000001C190545060> - Connected!
+2025-06-26 17:04:35.810 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 269 - Subscribed to *|* with id 39 for device *
+2025-06-26 17:04:36.356 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 894 - Service configuration was successfully retrieved and applied.
+2025-06-26 17:04:36.356 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 895 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-06-26 17:04:36.356 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 347 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-06-26 19:15:38.932 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 568 - MQTT client was disconnected with reason code None (Description not found.) 
+2025-06-27 01:37:51.507 - |INFO| - [tb_client.py] - tb_client - _on_connect - 313 - MQTT client connected to platform 35.208.180.242: 1883
+2025-06-27 01:37:51.507 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 577 - MQTT client <paho.mqtt.client.Client object at 0x000001C190545060> - Connected!
+2025-06-27 01:37:51.507 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 269 - Subscribed to *|* with id 40 for device *
+2025-06-27 01:37:52.047 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 894 - Service configuration was successfully retrieved and applied.
+2025-06-27 01:37:52.047 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 895 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-06-27 01:37:52.047 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 347 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}

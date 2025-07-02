@@ -1,0 +1,163 @@
+2025-06-18 11:25:36.864 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpression": "Raw_Data", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:25:36.864 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpression": "Raw_Data", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:25:36.915 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpression": "Raw_Data", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:25:36.916 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpression": "Raw_Data", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:25:36.932 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpression": "Raw_Data", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:25:36.932 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpression": "Raw_Data", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:25:37.078 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpression": "Raw_Data", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:25:37.079 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpression": "Raw_Data", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:27:37.765 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceName": "Raw_Data", "deviceProfile": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:27:37.765 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceName": "Raw_Data", "deviceProfile": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:27:37.796 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceName": "Raw_Data", "deviceProfile": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:27:37.796 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceName": "Raw_Data", "deviceProfile": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:27:37.804 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceName": "Raw_Data", "deviceProfile": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:27:37.805 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceName": "Raw_Data", "deviceProfile": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:27:37.979 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceName": "Raw_Data", "deviceProfile": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:27:37.979 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceName": "Raw_Data", "deviceProfile": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:29:08.631 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceName": "Raw_Data", "deviceProfile": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:29:08.632 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceName": "Raw_Data", "deviceProfile": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:29:08.643 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceName": "Raw_Data", "deviceProfile": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:29:08.643 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceName": "Raw_Data", "deviceProfile": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:29:09.060 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceName": "Raw_Data", "deviceProfile": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:29:09.060 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceName": "Raw_Data", "deviceProfile": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:29:09.259 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceName": "Raw_Data", "deviceProfile": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:29:09.259 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceName": "Raw_Data", "deviceProfile": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:33:40.763 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpressionSource": "string", "deviceNameExpression": "Raw_Data", "deviceProfileExpressionSource": "string", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:33:40.763 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpressionSource": "string", "deviceNameExpression": "Raw_Data", "deviceProfileExpressionSource": "string", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:33:40.804 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpressionSource": "string", "deviceNameExpression": "Raw_Data", "deviceProfileExpressionSource": "string", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:33:40.804 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpressionSource": "string", "deviceNameExpression": "Raw_Data", "deviceProfileExpressionSource": "string", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:33:40.977 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpressionSource": "string", "deviceNameExpression": "Raw_Data", "deviceProfileExpressionSource": "string", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:33:40.977 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpressionSource": "string", "deviceNameExpression": "Raw_Data", "deviceProfileExpressionSource": "string", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:33:40.987 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpressionSource": "string", "deviceNameExpression": "Raw_Data", "deviceProfileExpressionSource": "string", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:33:40.987 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpressionSource": "string", "deviceNameExpression": "Raw_Data", "deviceProfileExpressionSource": "string", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:34:11.057 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpressionSource": "string", "deviceNameExpression": "Raw_Data", "deviceProfileExpressionSource": "string", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:34:11.057 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpressionSource": "string", "deviceNameExpression": "Raw_Data", "deviceProfileExpressionSource": "string", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:34:11.076 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpressionSource": "string", "deviceNameExpression": "Raw_Data", "deviceProfileExpressionSource": "string", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:34:11.076 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpressionSource": "string", "deviceNameExpression": "Raw_Data", "deviceProfileExpressionSource": "string", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:34:11.267 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpressionSource": "string", "deviceNameExpression": "Raw_Data", "deviceProfileExpressionSource": "string", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:34:11.268 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpressionSource": "string", "deviceNameExpression": "Raw_Data", "deviceProfileExpressionSource": "string", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:34:11.695 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpressionSource": "string", "deviceNameExpression": "Raw_Data", "deviceProfileExpressionSource": "string", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 11:34:11.695 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - parse_device_info - 175 - The expression for looking "deviceName" not found in config {"type": "json", "deviceInfo": {"deviceNameExpressionSource": "string", "deviceNameExpression": "Raw_Data", "deviceProfileExpressionSource": "string", "deviceProfileExpression": "raw"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "Raw_Weather_Station_JSON", "value": "${.}"}]}
+2025-06-18 13:20:15.723 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - _convert_single_item - 123 - Error in converter, for config: 
+{"type": "json", "deviceInfo": {"deviceNameExpressionSource": "constant", "deviceNameExpression": "RawData", "deviceProfileExpressionSource": "constant", "deviceProfileExpression": "default"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}]}
+ and message: 
+{
+  head: {
+    environment: {
+      prog_name: WS3_Program,
+      table_name: TableMQTT2
+    },
+    fields: [
+      {
+        name: Solpos_Latitude
+      },
+      {
+        name: Solpos_Longitude
+      },
+      {
+        name: Solpos_Elevation
+      },
+      {
+        name: Solpos_SolarAzimuth
+      },
+      {
+        name: Solpos_SolarElevation
+      },
+      {
+        name: DataloggerSerialNumber
+      },
+      {
+        name: Logger_Year
+      },
+      {
+        name: Logger_Month
+      },
+      {
+        name: Logger_Day
+      },
+      {
+        name: Logger_Hour
+      },
+      {
+        name: Logger_Minute
+      },
+      {
+        name: Logger_Second
+      },
+      {
+        name: LoggerBatt_Avg
+      },
+      {
+        name: LithiumBatt_Avg
+      },
+      {
+        name: LoggerTemp_Avg
+      },
+      {
+        name: Batt24_Avg
+      },
+      {
+        name: Enclosure_Open_Tot
+      },
+      {
+        name: Batterybox_Open_Tot
+      }
+    ]
+  },
+  data: [
+    {
+      time: 2025-06-18T13:19:37,
+      vals: [
+        71.7,
+        -47.4,
+        1113.1,
+        185.7,
+        93.7,
+        934407,
+        2025,
+        4,
+        25,
+        4,
+        48,
+        59,
+        13.1,
+        10.3,
+        20.7,
+        13.4,
+        0,
+        1
+      ]
+    }
+  ]
+}
+ 'str' object has no attribute 'get'
+2025-06-18 13:22:57.937 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - _convert_single_item - 123 - Error in converter, for config: 
+{"type": "json", "deviceInfo": {"deviceNameExpressionSource": "constant", "deviceNameExpression": "RawData", "deviceProfileExpressionSource": "constant", "deviceProfileExpression": "default"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}]}
+ and message: 
+{name: Logger_Hour}
+ 'str' object has no attribute 'get'
+2025-06-18 13:24:21.375 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - _convert_single_item - 123 - Error in converter, for config: 
+{"type": "json", "deviceInfo": {"deviceNameExpressionSource": "constant", "deviceNameExpression": "RawData", "deviceProfileExpressionSource": "constant", "deviceProfileExpression": "default"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "string", "key": "raw_weather_station_mqtt", "value": "${.}"}]}
+ and message: 
+{name: Logger_Hour}
+ 'str' object has no attribute 'get'
+2025-06-18 13:25:22.468 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - _convert_single_item - 123 - Error in converter, for config: 
+{"type": "json", "deviceInfo": {"deviceNameExpressionSource": "constant", "deviceNameExpression": "RawData", "deviceProfileExpressionSource": "constant", "deviceProfileExpression": "default"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "json", "key": "raw_weather_station_mqtt", "value": "${.}"}]}
+ and message: 
+{name: Logger_Hour}
+ 'str' object has no attribute 'get'
+2025-06-18 15:20:12.194 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - _convert_single_item - 123 - Error in converter, for config: 
+{"type": "json", "deviceInfo": {"deviceNameExpressionSource": "constant", "deviceNameExpression": "RawData", "deviceProfileExpressionSource": "constant", "deviceProfileExpression": "default"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"type": "json", "jsonkey": "raw_weather_station_mqtt", "value": "${}"}]}
+ and message: 
+{'status': 'active', 'value': 42.5, 'timestamp': 1719627960000}
+ 'key'
+2025-06-18 16:00:57.762 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - _convert_single_item - 123 - Error in converter, for config: 
+{"type": "json", "deviceInfo": {"deviceNameExpressionSource": "constant", "deviceNameExpression": "RawData", "deviceProfileExpressionSource": "constant", "deviceProfileExpression": "default"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"key": "raw_weather_station_mqtt", "value": "*"}]}
+ and message: 
+{'status': 'active', 'value': 42.5, 'timestamp': 1719627960000}
+ 'type'
+2025-06-18 16:03:19.412 - |ERROR| - [json_mqtt_uplink_converter.py] - json_mqtt_uplink_converter - _convert_single_item - 123 - Error in converter, for config: 
+{"type": "json", "deviceInfo": {"deviceNameExpressionSource": "constant", "deviceNameExpression": "RawData", "deviceProfileExpressionSource": "constant", "deviceProfileExpression": "default"}, "sendDataOnlyOnChange": false, "timeout": 60000, "attributes": [{"type": "string", "key": "Gateway", "value": "pele-ws-connector"}], "timeseries": [{"key": "raw_weather_station_mqtt", "value": "*"}]}
+ and message: 
+{'status': 'active', 'value': 42.5, 'timestamp': 1719627960000}
+ 'type'

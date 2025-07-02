@@ -143,7 +143,7 @@ class TBGatewayService:
         global log
         log = logging.getLogger('service')
         if logging_error is not None:
-            log.setLevel('INFO')
+            log.setLevel('DEBUG')
 
         # load general configuration YAML/JSON
         self.__config = self.__load_general_config(config_file)

@@ -1,0 +1,31 @@
+2025-07-01 12:04:42.706 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 568 - MQTT client was disconnected with reason code None (Description not found.) 
+2025-07-01 12:05:38.158 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:05:48.172 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:05:58.195 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:06:08.207 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:06:18.222 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:06:28.234 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:06:38.249 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:06:48.260 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:06:58.280 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:07:08.304 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:07:18.316 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:07:28.336 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:07:38.349 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:07:48.363 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:07:58.383 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:08:08.384 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:08:18.404 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:08:28.428 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:08:38.444 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:08:48.476 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:08:58.478 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:09:08.499 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _publish_data - 1150 - Waiting for connection to be established before sending data to ThingsBoard!
+2025-07-01 12:09:18.441 - |INFO| - [tb_client.py] - tb_client - _on_connect - 313 - MQTT client connected to platform 35.208.180.242: 1883
+2025-07-01 12:09:18.443 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - _on_connect - 577 - MQTT client <paho.mqtt.client.Client object at 0x000001C190545060> - Connected!
+2025-07-01 12:09:18.443 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_subscribe_to_attribute - 269 - Subscribed to *|* with id 41 for device *
+2025-07-01 12:09:18.740 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 894 - Service configuration was successfully retrieved and applied.
+2025-07-01 12:09:18.740 - |INFO| - [tb_device_mqtt.py] - tb_device_mqtt - on_service_configuration - 895 - Current device limits: {'rateLimits': {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}, 'maxPayloadSize': 65536, 'maxInflightMessages': 100}
+2025-07-01 12:09:18.740 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - __on_service_configuration - 347 - Current limits for devices connected through the gateway: {'messages': None, 'telemetryMessages': None, 'telemetryDataPoints': None}
+2025-07-01 12:13:46.708 - |INFO| - [tb_gateway_mqtt.py] - tb_gateway_mqtt - gw_unsubscribe - 277 - Unsubscribed from *|*, subscription id '*'
+2025-07-01 12:13:46.709 - |WARNING| - [tb_device_mqtt.py] - tb_device_mqtt - _on_disconnect - 568 - MQTT client was disconnected with reason code None (Description not found.) 
