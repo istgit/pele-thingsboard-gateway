@@ -1,6 +1,6 @@
 {
   "broker": {
-    "host": "34.173.180.125",
+    "host": "0.0.0.0",
     "port": 1883,
     "clientId": "ThingsBoard_gateway",
     "version": 4,
@@ -12,8 +12,8 @@
     "sessionExpiryInterval": 0,
     "security": {
       "type": "basic",
-      "username": "mqtt_user",
-      "password": "admin1234"
+      "username": "username",
+      "password": "password"
     }
   },
   "mapping": [
