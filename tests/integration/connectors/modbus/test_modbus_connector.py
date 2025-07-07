@@ -23,7 +23,7 @@ except (ImportError, ModuleNotFoundError):
 
 from tests.base_test import BaseTest
 from thingsboard_gateway.connectors.modbus.bytes_modbus_downlink_converter import BytesModbusDownlinkConverter
-from thingsboard_gateway.connectors.modbus.bytes_modbus_uplink_converter import BytesModbusUplinkConverter
+from thingsboard_gateway.connectors.modbus.custom_bytes_modbus_uplink_converter import BytesModbusUplinkConverter
 from thingsboard_gateway.gateway.tb_gateway_service import TBGatewayService
 from thingsboard_gateway.connectors.modbus.modbus_connector import AsyncModbusConnector
 

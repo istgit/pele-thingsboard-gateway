@@ -22,7 +22,7 @@
     "handleDeviceRenaming": true,
     "security": {
       "type": "accessToken",
-      "accessToken": "accessToken"
+      "accessToken": "accesstoken"
     },
     "qos": 1,
     "reportStrategy": {
@@ -67,6 +67,11 @@
       "type": "mqtt",
       "name": "MQTT Connector",
       "configuration": "mqtt.json"
+    },
+    {
+      "type": "modbus",
+      "name": "Modbus Connector",
+      "configuration": "modbus.json"
     }
   ]
 }

@@ -20,7 +20,7 @@ from _asyncio import Future
 from pymodbus.constants import Defaults
 
 from thingsboard_gateway.connectors.modbus.bytes_modbus_downlink_converter import BytesModbusDownlinkConverter
-from thingsboard_gateway.connectors.modbus.bytes_modbus_uplink_converter import BytesModbusUplinkConverter
+from thingsboard_gateway.connectors.modbus.custom_bytes_modbus_uplink_converter import BytesModbusUplinkConverter
 from thingsboard_gateway.connectors.modbus.constants import BAUDRATE_PARAMETER, BYTE_ORDER_PARAMETER, \
     BYTESIZE_PARAMETER, CONNECT_ATTEMPT_COUNT_PARAMETER, CONNECT_ATTEMPT_TIME_MS_PARAMETER, HOST_PARAMETER, \
     METHOD_PARAMETER, PARITY_PARAMETER, PORT_PARAMETER, REPACK_PARAMETER, RETRIES_PARAMETER, RETRY_ON_EMPTY_PARAMETER, \

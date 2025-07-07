@@ -24,7 +24,7 @@
         "type": "json",
         "deviceInfo": {
           "deviceNameExpressionSource": "constant",
-          "deviceNameExpression": "RawData",
+          "deviceNameExpression": "RawWeatherStationData",
           "deviceProfileExpressionSource": "constant",
           "deviceProfileExpression": "raw"
         },

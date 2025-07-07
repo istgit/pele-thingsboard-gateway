@@ -1,24 +1,8 @@
-#     Copyright 2025. ThingsBoard
-#
-#     Licensed under the Apache License, Version 2.0 (the "License");
-#     you may not use this file except in compliance with the License.
-#     You may obtain a copy of the License at
-#
-#         http://www.apache.org/licenses/LICENSE-2.0
-#
-#     Unless required by applicable law or agreed to in writing, software
-#     distributed under the License is distributed on an "AS IS" BASIS,
-#     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-#     See the License for the specific language governing permissions and
-#     limitations under the License.
-
 from typing import List, Union
-
 from pymodbus.constants import Endian
 from pymodbus.exceptions import ModbusIOException
 from pymodbus.payload import BinaryPayloadDecoder
 from pymodbus.pdu import ExceptionResponse
-
 from thingsboard_gateway.connectors.modbus.entities.bytes_uplink_converter_config import BytesUplinkConverterConfig
 from thingsboard_gateway.connectors.modbus.modbus_converter import ModbusConverter
 from thingsboard_gateway.gateway.entities.converted_data import ConvertedData
@@ -26,7 +10,6 @@ from thingsboard_gateway.gateway.entities.report_strategy_config import ReportSt
 from thingsboard_gateway.gateway.statistics.decorators import CollectStatistics
 from thingsboard_gateway.gateway.statistics.statistics_service import StatisticsService
 from thingsboard_gateway.tb_utility.tb_utility import TBUtility
-
 
 class BytesModbusUplinkConverter(ModbusConverter):
     def __init__(self, config: BytesUplinkConverterConfig, logger):
@@ -79,7 +62,6 @@ class BytesModbusUplinkConverter(ModbusConverter):
                                               word_endian_order=word_endian_order)
                 except TypeError:
                     decoder = self.from_coils(encoded_data.bits, word_endian_order=word_endian_order)
-
                 decoded_data = self.decode_from_registers(decoder, config)
             elif config['functionCode'] in (3, 4):
                 decoder = BinaryPayloadDecoder.fromRegisters(encoded_data.registers, byteorder=endian_order,
@@ -111,7 +93,6 @@ class BytesModbusUplinkConverter(ModbusConverter):
                                                          wordorder=word_endian_order)
             except TypeError:
                 decoder = BinaryPayloadDecoder.fromCoils(coils, wordorder=word_endian_order)
-
         return decoder
 
     def decode_from_registers(self, decoder, configuration):
@@ -135,7 +116,7 @@ class BytesModbusUplinkConverter(ModbusConverter):
             '64int': decoder.decode_64bit_int,
             '64uint': decoder.decode_64bit_uint,
             '64float': decoder.decode_64bit_float,
-            }
+        }
 
         decoded = None
 
@@ -150,6 +131,9 @@ class BytesModbusUplinkConverter(ModbusConverter):
 
         elif lower_type == "bytes":
             decoded = decoder_functions[lower_type](size=objects_count * 2)
+
+        elif lower_type == "16uint" and objects_count > 1:
+            decoded = [decoder.decode_16bit_uint() for _ in range(objects_count)]
 
         elif decoder_functions.get(lower_type) is not None:
             decoded = decoder_functions[lower_type]()
@@ -172,7 +156,9 @@ class BytesModbusUplinkConverter(ModbusConverter):
         else:
             self._log.error("Unknown type: %s", lower_type)
 
-        if isinstance(decoded, int):
+        if isinstance(decoded, list):
+            result_data = decoded  # Return the raw list for multi-register 16uint
+        elif isinstance(decoded, int):
             result_data = decoded
         elif isinstance(decoded, bytes) and lower_type == "string":
             try:
@@ -182,16 +168,6 @@ class BytesModbusUplinkConverter(ModbusConverter):
                 result_data = decoded.hex()
         elif isinstance(decoded, bytes) and lower_type == "bytes":
             result_data = decoded.hex()
-        elif isinstance(decoded, list):
-            if configuration.get('bit') is not None:
-                result_data = int(decoded[configuration['bit'] if
-                configuration['bit'] < len(decoded) else len(decoded) - 1])
-            else:
-                bitAsBoolean = configuration.get('bitTargetType', 'bool') == 'bool'
-                if objects_count == 1:
-                    result_data = bool(decoded[-1]) if bitAsBoolean else int(decoded[-1])
-                else:
-                    result_data = [bool(bit) if bitAsBoolean else int(bit) for bit in decoded]
         elif isinstance(decoded, float):
             result_data = float(round(decoded, configuration.get('round', 6)))
         elif decoded is not None:

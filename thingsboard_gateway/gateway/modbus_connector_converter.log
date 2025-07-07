@@ -1,0 +1,3 @@
+2025-07-04 10:31:15.873 - |ERROR| - [bytes_modbus_uplink_converter.py] - bytes_modbus_uplink_converter - decode_from_registers - 173 - Unknown type: 12int
+2025-07-04 10:31:21.047 - |ERROR| - [bytes_modbus_uplink_converter.py] - bytes_modbus_uplink_converter - decode_from_registers - 173 - Unknown type: 12int
+2025-07-04 10:31:25.646 - |ERROR| - [bytes_modbus_uplink_converter.py] - bytes_modbus_uplink_converter - decode_from_registers - 173 - Unknown type: 12int

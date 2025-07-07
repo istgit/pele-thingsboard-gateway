@@ -10,7 +10,7 @@ except (ImportError, ModuleNotFoundError):
 from pymodbus.payload import BinaryPayloadBuilder
 
 from tests.unit.BaseUnitTest import BaseUnitTest
-from thingsboard_gateway.connectors.modbus.bytes_modbus_uplink_converter import BytesModbusUplinkConverter
+from thingsboard_gateway.connectors.modbus.custom_bytes_modbus_uplink_converter import BytesModbusUplinkConverter
 
 
 class ModbusConverterTests(BaseUnitTest):
