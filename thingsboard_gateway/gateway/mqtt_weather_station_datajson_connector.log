@@ -1,0 +1,22 @@
+2025-07-11 13:30:22.317 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted mapping handlers: 4
+2025-07-11 13:30:22.317 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted serverSideRpc handlers: 2
+2025-07-11 13:30:22.318 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted connectRequests handlers: 2
+2025-07-11 13:30:22.318 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted disconnectRequests handlers: 2
+2025-07-11 13:30:22.320 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted attributeRequests handlers: 1
+2025-07-11 13:30:22.320 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted attributeUpdates handlers: 1
+2025-07-11 13:30:24.352 - |ERROR| - [mqtt_connector.py] - mqtt_connector - __connect - 367 - Error while connecting to broker mqttWeatherStationData.json: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-07-11 13:30:36.374 - |ERROR| - [mqtt_connector.py] - mqtt_connector - __connect - 367 - Error while connecting to broker mqttWeatherStationData.json: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-07-11 13:30:48.425 - |ERROR| - [mqtt_connector.py] - mqtt_connector - __connect - 367 - Error while connecting to broker mqttWeatherStationData.json: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-07-11 13:31:00.450 - |ERROR| - [mqtt_connector.py] - mqtt_connector - __connect - 367 - Error while connecting to broker mqttWeatherStationData.json: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-07-11 13:31:12.478 - |ERROR| - [mqtt_connector.py] - mqtt_connector - __connect - 367 - Error while connecting to broker mqttWeatherStationData.json: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-07-11 13:31:24.495 - |ERROR| - [mqtt_connector.py] - mqtt_connector - __connect - 367 - Error while connecting to broker mqttWeatherStationData.json: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-07-11 13:31:36.540 - |ERROR| - [mqtt_connector.py] - mqtt_connector - __connect - 367 - Error while connecting to broker mqttWeatherStationData.json: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-07-11 13:31:48.588 - |ERROR| - [mqtt_connector.py] - mqtt_connector - __connect - 367 - Error while connecting to broker mqttWeatherStationData.json: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-07-11 13:32:00.627 - |ERROR| - [mqtt_connector.py] - mqtt_connector - __connect - 367 - Error while connecting to broker mqttWeatherStationData.json: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-07-11 13:32:11.330 - |INFO| - [mqtt_connector.py] - mqtt_connector - close - 383 - mqttWeatherStationData.json has been stopped.
+2025-07-11 13:32:31.515 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted mapping handlers: 1
+2025-07-11 13:32:32.056 - |INFO| - [mqtt_connector.py] - mqtt_connector - _on_connect - 402 - mqttWeatherStationData.json connected to 34.173.180.125:1883 - successfully.
+2025-07-11 13:32:32.064 - |INFO| - [mqtt_connector.py] - mqtt_connector - _on_connect - 480 - Connector "mqttWeatherStationData.json" subscribe to cpv1/#
+2025-07-11 13:32:32.322 - |INFO| - [mqtt_connector.py] - mqtt_connector - _on_subscribe - 523 - ()
+2025-07-11 13:32:32.322 - |INFO| - [mqtt_connector.py] - mqtt_connector - _on_subscribe - 530 - "mqttWeatherStationData.json" subscription success to topic cpv1/#, subscription message id = 1
+2025-07-11 13:33:16.045 - |INFO| - [mqtt_connector.py] - mqtt_connector - close - 383 - mqttWeatherStationData.json has been stopped.

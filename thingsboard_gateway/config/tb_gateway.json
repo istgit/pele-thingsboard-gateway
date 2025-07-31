@@ -1,6 +1,6 @@
 {
   "thingsboard": {
-    "host": "0.0.0.0",
+    "host": "192.168.89.53",
     "port": 1883,
     "remoteShell": false,
     "remoteConfiguration": true,
@@ -8,6 +8,7 @@
     "deviceProvisioning": true,
     "statistics": {
       "enable": true,
+      "enableCustom": true,
       "statsSendPeriodInSeconds": 60,
       "customStatsSendPeriodInSeconds": 3600
     },
@@ -22,7 +23,7 @@
     "handleDeviceRenaming": true,
     "security": {
       "type": "accessToken",
-      "accessToken": "accesstoken"
+      "accessToken": "5KREzNL9R59UO0lKXABD"
     },
     "qos": 1,
     "reportStrategy": {
@@ -38,7 +39,8 @@
     "messagesRateLimits": "DEFAULT_MESSAGES_RATE_LIMIT",
     "deviceMessagesRateLimits": "DEFAULT_MESSAGES_RATE_LIMIT",
     "deviceRateLimits": "DEFAULT_TELEMETRY_RATE_LIMIT",
-    "deviceDpRateLimits": "DEFAULT_TELEMETRY_DP_RATE_LIMIT"
+    "deviceDpRateLimits": "DEFAULT_TELEMETRY_DP_RATE_LIMIT",
+    "ts": 1752233845143
   },
   "storage": {
     "type": "memory",
@@ -50,7 +52,8 @@
     "max_records_per_file": 10000,
     "data_file_path": "./data/data.db",
     "messages_ttl_check_in_hours": 1,
-    "messages_ttl_in_days": 7
+    "messages_ttl_in_days": 7,
+    "ts": 1752233845143
   },
   "grpc": {
     "enabled": false,
@@ -65,13 +68,13 @@
   "connectors": [
     {
       "type": "mqtt",
-      "name": "MQTT Connector",
-      "configuration": "mqtt.json"
+      "name": "WeatherStationMQTT",
+      "configuration": "weatherStationMqtt.json"
     },
     {
       "type": "modbus",
-      "name": "Modbus Connector",
-      "configuration": "modbus.json"
+      "name": "WeatheStationModbus",
+      "configuration": "weatheStationModbus.json"
     }
   ]
 }

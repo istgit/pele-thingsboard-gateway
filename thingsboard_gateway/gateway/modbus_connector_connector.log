@@ -542,3 +542,6 @@
 2025-07-07 10:12:22.422 - |INFO| - [slave.py] - slave - connect - 209 - Connected to RawMAUData
 2025-07-07 10:58:29.929 - |INFO| - [slave.py] - slave - connect - 209 - Connected to RawMAUData
 2025-07-07 11:18:59.912 - |INFO| - [modbus_connector.py] - modbus_connector - close - 138 - Modbus Connector has been stopped
+2025-07-07 14:33:51.917 - |INFO| - [modbus_connector.py] - modbus_connector - __init__ - 99 - Starting Modbus Connector...
+2025-07-07 14:33:51.935 - |ERROR| - [modbus_connector.py] - modbus_connector - __poll_device - 265 - Failed to poll RawMAUData device: [WinError 1214] The format of the specified network name is invalid
+2025-07-07 14:33:55.675 - |INFO| - [modbus_connector.py] - modbus_connector - close - 138 - Modbus Connector has been stopped

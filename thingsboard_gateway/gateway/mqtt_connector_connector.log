@@ -1782,3 +1782,22 @@ OSError: [WinError 10049] The requested address is not valid in its context
 2025-07-07 10:58:30.135 - |INFO| - [mqtt_connector.py] - mqtt_connector - _on_subscribe - 523 - ()
 2025-07-07 10:58:30.135 - |INFO| - [mqtt_connector.py] - mqtt_connector - _on_subscribe - 530 - "MQTT Connector" subscription success to topic cpv1/#, subscription message id = 6
 2025-07-07 11:18:59.686 - |INFO| - [mqtt_connector.py] - mqtt_connector - close - 383 - MQTT Connector has been stopped.
+2025-07-07 14:33:51.912 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted mapping handlers: 1
+2025-07-07 14:33:51.934 - |ERROR| - [tb_logger.py] - tb_logger - exception - 182 - Error while connecting to broker MQTT Connector: [WinError 10049] The requested address is not valid in its context
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 355, in __connect
+    self._client.connect(self.__broker['host'], self.__broker.get('port', 1883))
+  File "C:\Users\kershan.govender\Documents\Python Projects\Virtual_Environments\pele-thingsboard-gateway\venv\lib\site-packages\paho\mqtt\client.py", line 1435, in connect
+    return self.reconnect()
+  File "C:\Users\kershan.govender\Documents\Python Projects\Virtual_Environments\pele-thingsboard-gateway\venv\lib\site-packages\paho\mqtt\client.py", line 1598, in reconnect
+    self._sock = self._create_socket()
+  File "C:\Users\kershan.govender\Documents\Python Projects\Virtual_Environments\pele-thingsboard-gateway\venv\lib\site-packages\paho\mqtt\client.py", line 4614, in _create_socket
+    sock = self._create_socket_connection()
+  File "C:\Users\kershan.govender\Documents\Python Projects\Virtual_Environments\pele-thingsboard-gateway\venv\lib\site-packages\paho\mqtt\client.py", line 4645, in _create_socket_connection
+    return socket.create_connection(addr, timeout=self._connect_timeout, source_address=source)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\socket.py", line 845, in create_connection
+    raise err
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\socket.py", line 833, in create_connection
+    sock.connect(sa)
+OSError: [WinError 10049] The requested address is not valid in its context
+2025-07-07 14:33:55.569 - |INFO| - [mqtt_connector.py] - mqtt_connector - close - 383 - MQTT Connector has been stopped.

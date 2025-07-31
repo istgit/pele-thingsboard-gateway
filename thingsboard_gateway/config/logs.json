@@ -14,81 +14,11 @@
       "formatter": "LogFormatter",
       "level": 0,
       "stream": "ext://sys.stdout"
-    },
-    "databaseHandler": {
-      "class": "thingsboard_gateway.tb_utility.tb_rotating_file_handler.TimedRotatingFileHandler",
-      "formatter": "LogFormatter",
-      "filename": "./logs/database.log",
-      "backupCount": 1,
-      "encoding": "utf-8"
-    },
-    "serviceHandler": {
-      "class": "thingsboard_gateway.tb_utility.tb_rotating_file_handler.TimedRotatingFileHandler",
-      "formatter": "LogFormatter",
-      "filename": "./logs/service.log",
-      "backupCount": 7,
-      "interval": 3,
-      "when": "D",
-      "encoding": "utf-8"
-    },
-    "connectorHandler": {
-      "class": "thingsboard_gateway.tb_utility.tb_rotating_file_handler.TimedRotatingFileHandler",
-      "formatter": "LogFormatter",
-      "filename": "./logs/connector.log",
-      "backupCount": 7,
-      "interval": 3,
-      "when": "D",
-      "encoding": "utf-8"
-    },
-    "converterHandler": {
-      "class": "thingsboard_gateway.tb_utility.tb_rotating_file_handler.TimedRotatingFileHandler",
-      "formatter": "LogFormatter",
-      "filename": "./logs/converter.log",
-      "backupCount": 7,
-      "interval": 3,
-      "when": "D",
-      "encoding": "utf-8"
-    },
-    "tb_connectionHandler": {
-      "class": "thingsboard_gateway.tb_utility.tb_rotating_file_handler.TimedRotatingFileHandler",
-      "formatter": "LogFormatter",
-      "filename": "./logs/tb_connection.log",
-      "backupCount": 7,
-      "interval": 3,
-      "when": "D",
-      "encoding": "utf-8"
-    },
-    "storageHandler": {
-      "class": "thingsboard_gateway.tb_utility.tb_rotating_file_handler.TimedRotatingFileHandler",
-      "formatter": "LogFormatter",
-      "filename": "./logs/storage.log",
-      "backupCount": 7,
-      "interval": 3,
-      "when": "D",
-      "encoding": "utf-8"
-    },
-    "extensionHandler": {
-      "class": "thingsboard_gateway.tb_utility.tb_rotating_file_handler.TimedRotatingFileHandler",
-      "formatter": "LogFormatter",
-      "filename": "./logs/extension.log",
-      "backupCount": 7,
-      "interval": 3,
-      "when": "D",
-      "encoding": "utf-8"
     }
   },
   "loggers": {
-    "database": {
-      "handlers": [
-        "databaseHandler",
-        "consoleHandler"
-      ],
-      "level": "INFO",
-      "propagate": false
-    },
     "service": {
       "handlers": [
-        "serviceHandler",
         "consoleHandler"
       ],
       "level": "INFO",
@@ -96,7 +26,6 @@
     },
     "connector": {
       "handlers": [
-        "connectorHandler",
         "consoleHandler"
       ],
       "level": "INFO",
@@ -104,7 +33,6 @@
     },
     "converter": {
       "handlers": [
-        "converterHandler",
         "consoleHandler"
       ],
       "level": "INFO",
@@ -112,7 +40,6 @@
     },
     "tb_connection": {
       "handlers": [
-        "tb_connectionHandler",
         "consoleHandler"
       ],
       "level": "INFO",
@@ -120,7 +47,6 @@
     },
     "storage": {
       "handlers": [
-        "storageHandler",
         "consoleHandler"
       ],
       "level": "INFO",
@@ -128,7 +54,6 @@
     },
     "extension": {
       "handlers": [
-        "extensionHandler",
         "consoleHandler"
       ],
       "level": "INFO",
@@ -140,5 +65,6 @@
     "handlers": [
       "consoleHandler"
     ]
-  }
+  },
+  "ts": 1752233845143
 }

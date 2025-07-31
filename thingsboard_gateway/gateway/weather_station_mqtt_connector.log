@@ -1,0 +1,43 @@
+2025-07-11 13:34:28.881 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted mapping handlers: 4
+2025-07-11 13:34:28.881 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted serverSideRpc handlers: 2
+2025-07-11 13:34:28.881 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted connectRequests handlers: 2
+2025-07-11 13:34:28.882 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted disconnectRequests handlers: 2
+2025-07-11 13:34:28.882 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted attributeRequests handlers: 1
+2025-07-11 13:34:28.882 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted attributeUpdates handlers: 1
+2025-07-11 13:34:30.908 - |ERROR| - [mqtt_connector.py] - mqtt_connector - __connect - 367 - Error while connecting to broker WeatherStationMQTT: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-07-11 13:34:42.952 - |ERROR| - [mqtt_connector.py] - mqtt_connector - __connect - 367 - Error while connecting to broker WeatherStationMQTT: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-07-11 13:34:50.376 - |INFO| - [mqtt_connector.py] - mqtt_connector - close - 383 - WeatherStationMQTT has been stopped.
+2025-07-11 13:34:50.387 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted mapping handlers: 4
+2025-07-11 13:34:50.387 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted serverSideRpc handlers: 2
+2025-07-11 13:34:50.388 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted connectRequests handlers: 2
+2025-07-11 13:34:50.388 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted disconnectRequests handlers: 2
+2025-07-11 13:34:50.388 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted attributeRequests handlers: 1
+2025-07-11 13:34:50.388 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted attributeUpdates handlers: 1
+2025-07-11 13:34:52.408 - |ERROR| - [mqtt_connector.py] - mqtt_connector - __connect - 367 - Error while connecting to broker WeatherStationMQTT: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-07-11 13:35:04.442 - |ERROR| - [mqtt_connector.py] - mqtt_connector - __connect - 367 - Error while connecting to broker WeatherStationMQTT: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-07-11 13:35:16.471 - |ERROR| - [mqtt_connector.py] - mqtt_connector - __connect - 367 - Error while connecting to broker WeatherStationMQTT: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-07-11 13:35:24.222 - |INFO| - [mqtt_connector.py] - mqtt_connector - close - 383 - WeatherStationMQTT has been stopped.
+2025-07-11 13:35:24.249 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted mapping handlers: 1
+2025-07-11 13:35:24.780 - |INFO| - [mqtt_connector.py] - mqtt_connector - _on_connect - 402 - WeatherStationMQTT connected to 34.173.180.125:1883 - successfully.
+2025-07-11 13:35:24.822 - |INFO| - [mqtt_connector.py] - mqtt_connector - _on_connect - 480 - Connector "WeatherStationMQTT" subscribe to cpv1/#
+2025-07-11 13:35:25.175 - |INFO| - [mqtt_connector.py] - mqtt_connector - _on_subscribe - 523 - ()
+2025-07-11 13:35:25.176 - |INFO| - [mqtt_connector.py] - mqtt_connector - _on_subscribe - 530 - "WeatherStationMQTT" subscription success to topic cpv1/#, subscription message id = 1
+2025-07-11 13:36:50.616 - |INFO| - [mqtt_connector.py] - mqtt_connector - close - 383 - WeatherStationMQTT has been stopped.
+2025-07-11 13:36:50.629 - |INFO| - [mqtt_connector.py] - mqtt_connector - load_handlers - 314 - Number of accepted mapping handlers: 1
+2025-07-11 13:36:51.151 - |INFO| - [mqtt_connector.py] - mqtt_connector - _on_connect - 402 - WeatherStationMQTT connected to 34.173.180.125:1883 - successfully.
+2025-07-11 13:36:51.151 - |INFO| - [mqtt_connector.py] - mqtt_connector - _on_connect - 480 - Connector "WeatherStationMQTT" subscribe to cpv1/#
+2025-07-11 13:36:51.413 - |INFO| - [mqtt_connector.py] - mqtt_connector - _on_subscribe - 523 - ()
+2025-07-11 13:36:51.413 - |INFO| - [mqtt_connector.py] - mqtt_connector - _on_subscribe - 530 - "WeatherStationMQTT" subscription success to topic cpv1/#, subscription message id = 1
+WeatherStationMQTT has been stopped.
+Number of accepted mapping handlers: 1
+WeatherStationMQTT connected to 34.173.180.125:1883 - successfully.
+Connector "WeatherStationMQTT" subscribe to cpv1/#
+()
+"WeatherStationMQTT" subscription success to topic cpv1/#, subscription message id = 1
+WeatherStationMQTT has been stopped.
+Number of accepted mapping handlers: 1
+WeatherStationMQTT connected to 34.173.180.125:1883 - successfully.
+Connector "WeatherStationMQTT" subscribe to cpv1/#
+()
+"WeatherStationMQTT" subscription success to topic cpv1/#, subscription message id = 1
+WeatherStationMQTT has been stopped.
