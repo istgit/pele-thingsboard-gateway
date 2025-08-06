@@ -41,3 +41,8 @@ Connector "WeatherStationMQTT" subscribe to cpv1/#
 ()
 "WeatherStationMQTT" subscription success to topic cpv1/#, subscription message id = 1
 WeatherStationMQTT has been stopped.
+Number of accepted mapping handlers: 1
+WeatherStationMQTT connected to 34.173.180.125:1883 - successfully.
+Connector "WeatherStationMQTT" subscribe to cpv1/#
+()
+"WeatherStationMQTT" subscription success to topic cpv1/#, subscription message id = 1

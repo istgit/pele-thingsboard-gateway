@@ -1,6 +1,6 @@
 {
   "thingsboard": {
-    "host": "192.168.89.53",
+    "host": "35.208.180.242",
     "port": 1883,
     "remoteShell": false,
     "remoteConfiguration": true,
@@ -23,7 +23,7 @@
     "handleDeviceRenaming": true,
     "security": {
       "type": "accessToken",
-      "accessToken": "5KREzNL9R59UO0lKXABD"
+      "accessToken": "NUYbtKTolgMQVa66P2m0"
     },
     "qos": 1,
     "reportStrategy": {
@@ -67,14 +67,14 @@
   },
   "connectors": [
     {
-      "type": "mqtt",
-      "name": "WeatherStationMQTT",
-      "configuration": "weatherStationMqtt.json"
+      "type": "modbus",
+      "name": "Tracker Weather Station (MAU3)",
+      "configuration": "trackerWeatherStationMau3.json"
     },
     {
-      "type": "modbus",
-      "name": "WeatheStationModbus",
-      "configuration": "weatheStationModbus.json"
+      "type": "mqtt",
+      "name": "Plant Weather Stations",
+      "configuration": "plantWeatherStations.json"
     }
   ]
 }

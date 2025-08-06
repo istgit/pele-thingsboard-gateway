@@ -18,7 +18,7 @@
   },
   "mapping": [
     {
-      "topicFilter": "cpv1/#",
+      "topicFilter": "cpv1/ws+/#",
       "subscriptionQos": 1,
       "converter": {
         "type": "json",
