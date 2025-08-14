@@ -1,0 +1,11 @@
+Number of accepted mapping handlers: 3
+PlantWeatherStations connected to 10.10.10.92:1883 - successfully.
+Connector "PlantWeatherStations" subscribe to cpv1/ws1/#
+Connector "PlantWeatherStations" subscribe to cpv1/ws2/#
+Connector "PlantWeatherStations" subscribe to cpv1/ws3/#
+()
+"PlantWeatherStations" subscription success to topic cpv1/ws1/#, subscription message id = 1
+()
+"PlantWeatherStations" subscription success to topic cpv1/ws2/#, subscription message id = 2
+()
+"PlantWeatherStations" subscription success to topic cpv1/ws3/#, subscription message id = 3

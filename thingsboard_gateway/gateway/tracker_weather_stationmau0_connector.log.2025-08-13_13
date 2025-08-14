@@ -1,0 +1,328 @@
+Number of accepted mapping handlers: 4
+Number of accepted serverSideRpc handlers: 2
+Number of accepted connectRequests handlers: 2
+Number of accepted disconnectRequests handlers: 2
+Number of accepted attributeRequests handlers: 1
+Number of accepted attributeUpdates handlers: 1
+Error while connecting to broker TrackerWeatherStation(MAU0): [WinError 10061] No connection could be made because the target machine actively refused it
+Error while connecting to broker TrackerWeatherStation(MAU0): [WinError 10061] No connection could be made because the target machine actively refused it
+Error while connecting to broker TrackerWeatherStation(MAU0): [WinError 10061] No connection could be made because the target machine actively refused it
+Error while connecting to broker TrackerWeatherStation(MAU0): [WinError 10061] No connection could be made because the target machine actively refused it
+TrackerWeatherStation(MAU0) has been stopped.
+Broker configuration is missing!
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+'MqttConnector' object has no attribute '_client'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 377, in close
+    self._client.disconnect()
+AttributeError: 'MqttConnector' object has no attribute '_client'
+Broker configuration is missing!
+Broker configuration is missing!
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+Error while connecting to broker TrackerWeatherStation(MAU0): 'MqttConnector' object has no attribute '_mqtt_version'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 354, in __connect
+    if self._mqtt_version != 5:
+AttributeError: 'MqttConnector' object has no attribute '_mqtt_version'
+'MqttConnector' object has no attribute '_client'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 377, in close
+    self._client.disconnect()
+AttributeError: 'MqttConnector' object has no attribute '_client'
+'MqttConnector' object has no attribute '_client'
+Traceback (most recent call last):
+  File "C:\Users\kershan.govender\Documents\GitHub_Projects\pele-thingsboard-gateway\thingsboard_gateway\connectors\mqtt\mqtt_connector.py", line 377, in close
+    self._client.disconnect()
+AttributeError: 'MqttConnector' object has no attribute '_client'
+Starting Modbus Connector...
+Starting Modbus Connector...
+Starting Modbus Connector...
+Failed to poll Temp Sensor device: [WinError 1225] The remote computer refused the network connection
+Failed to poll Temp Sensor device: [WinError 1225] The remote computer refused the network connection
+Failed to poll Temp Sensor device: [WinError 1225] The remote computer refused the network connection
+TrackerWeatherStation(MAU0) has been stopped
+TrackerWeatherStation(MAU0) has been stopped
+TrackerWeatherStation(MAU0) has been stopped
+Starting Modbus Connector...
+Connected to RawMAUData
+TrackerWeatherStation(MAU0) has been stopped
+Starting Modbus Connector...
+Connected to RawMAUData
+TrackerWeatherStation(MAU0) has been stopped
+Starting Modbus Connector...
+Connected to RawMAUData
+TrackerWeatherStation(MAU0) has been stopped
+Starting Modbus Connector...
+Connected to RawMAUData
+TrackerWeatherStation(MAU0) has been stopped
+Starting Modbus Connector...
+Connected to RawMAUData
+TrackerWeatherStation(MAU0) has been stopped

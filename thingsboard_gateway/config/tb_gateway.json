@@ -1,6 +1,6 @@
 {
   "thingsboard": {
-    "host": "35.208.180.242",
+    "host": "192.168.89.54",
     "port": 1883,
     "remoteShell": false,
     "remoteConfiguration": true,
@@ -23,7 +23,7 @@
     "handleDeviceRenaming": true,
     "security": {
       "type": "accessToken",
-      "accessToken": "NUYbtKTolgMQVa66P2m0"
+      "accessToken": "6aWnMlGXol6lYdgoUtGz"
     },
     "qos": 1,
     "reportStrategy": {
@@ -67,14 +67,29 @@
   },
   "connectors": [
     {
-      "type": "modbus",
-      "name": "Tracker Weather Station (MAU3)",
-      "configuration": "trackerWeatherStationMau3.json"
+      "type": "mqtt",
+      "name": "PlantWeatherStations",
+      "configuration": "plantWeatherStations.json"
     },
     {
-      "type": "mqtt",
-      "name": "Plant Weather Stations",
-      "configuration": "plantWeatherStations.json"
+      "type": "modbus",
+      "name": "TrackerWeatherStation(MAU0)",
+      "configuration": "trackerWeatherStationMau0.json"
+    },
+    {
+      "type": "modbus",
+      "name": "TrackerWeatherStation(MAU1)",
+      "configuration": "trackerWeatherStationMau1.json"
+    },
+    {
+      "type": "modbus",
+      "name": "TrackerWeatherStation(MAU2)",
+      "configuration": "trackerWeatherStationMau2.json"
+    },
+    {
+      "type": "modbus",
+      "name": "TrackerWeatherStation(MAU3)",
+      "configuration": "trackerWeatherStationMau3.json"
     }
   ]
 }

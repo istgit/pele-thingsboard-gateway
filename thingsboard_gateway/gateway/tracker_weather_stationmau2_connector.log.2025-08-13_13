@@ -1,0 +1,25 @@
+Number of accepted mapping handlers: 4
+Number of accepted serverSideRpc handlers: 2
+Number of accepted connectRequests handlers: 2
+Number of accepted disconnectRequests handlers: 2
+Number of accepted attributeRequests handlers: 1
+Number of accepted attributeUpdates handlers: 1
+Error while connecting to broker TrackerWeatherStation(MAU2): [WinError 10061] No connection could be made because the target machine actively refused it
+Error while connecting to broker TrackerWeatherStation(MAU2): [WinError 10061] No connection could be made because the target machine actively refused it
+Error while connecting to broker TrackerWeatherStation(MAU2): [WinError 10061] No connection could be made because the target machine actively refused it
+TrackerWeatherStation(MAU2) has been stopped.
+Starting Modbus Connector...
+Failed to poll Temp Sensor device: [WinError 1225] The remote computer refused the network connection
+TrackerWeatherStation(MAU2) has been stopped
+Starting Modbus Connector...
+Connected to RawMAUData
+TrackerWeatherStation(MAU2) has been stopped
+Starting Modbus Connector...
+Connected to RawMAUData
+TrackerWeatherStation(MAU2) has been stopped
+Starting Modbus Connector...
+Connected to RawMAUData
+TrackerWeatherStation(MAU2) has been stopped
+Starting Modbus Connector...
+Connected to RawMAUData
+TrackerWeatherStation(MAU2) has been stopped
